@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace ConsoleTest
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //Values must be read as a string then converted to a numeric type
+        }
+    }
+}
